@@ -5,7 +5,7 @@ sections:
     title: QualiApp
     subtitle: Management Qualité
     actions:
-      - label: Try for free
+      - label: Demo
         url: /pricing
         style: primary
     image: images/hero.svg
