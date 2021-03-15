@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: QualiApp
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Management Qualité
     actions:
       - label: Try for free
         url: /pricing
